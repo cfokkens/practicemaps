@@ -6,21 +6,6 @@ custom-foot: js/item-js.html
 
 <html lang="en" class="h-100">
   <head prefix="og: http://ogp.me/ns#">
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Additional Maps | Maps of the Development of Vancouver</title>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<!--
-  _____     ____        __  _           ___       _ __   __       
- / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
-/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
-\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
-   
-    built with CollectionBuilder-GH
-    https://github.com/CollectionBuilder/collectionbuilder-gh 
--->
-<meta name="generator" content="collectionbuilder-gh" />
-<meta http-equiv="Content-Language" content="en-us" >
 
 <!-- load style sheets -->
 
@@ -34,77 +19,6 @@ custom-foot: js/item-js.html
 <link rel="stylesheet" href="/assets/css/custom.css" type="text/css">
 
 
-
-<!-- Last build date: 2022-03-17 -->
-  </head>
-  <body class="d-flex flex-column h-100">
-    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-    <div class="container pt-2">
-    <h1><a class="text-dark font-weight-normal" href="/" >Maps of the Development of Vancouver</a></h1>	 
-            <p>A Collection of Maps Available at UBC Vancouver's Koerner Library</p>
-</div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="page-nav">
-            <ul class="navbar-nav mr-auto">
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/">Home</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/browse.html">Browse</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/subjects.html">Subjects</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/map.html">Map</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/timeline.html">Timeline</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/data.html">Data</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link " href="/about.html">About</a>
-                </li>
-                
-                <li class="nav-item active">
-                    <a class="nav-link " href="/%20/additional-maps.html">Additional Maps</a>
-                </li></ul>
-            
-            <script>
-    function site_search() {
-        var query = document.getElementById("site-search").value;
-        window.open("/search/index.html?q=" + encodeURIComponent(query), "_self" );
-    }
-</script>
-<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
-    <div class="input-group">
-        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
-        <div class="input-group-append">
-            <button class="btn btn-light" type="submit">
-                <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
-                <span class="sr-only">Search</span>
-            </button>
-        </div>
-    </div>
-</form>
-            
-        </div>
-    </div>
-</nav>
 
     <main id="maincontent" role="main" class="flex-shrink-0">
     <div class="container my-4">
